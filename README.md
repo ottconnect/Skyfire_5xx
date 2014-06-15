@@ -11,10 +11,10 @@ Updates will only be for this project.
 
 Original Core is located here : https://github.com/ProjectSkyfire/SkyFire_5xx
 
-Working on:
+Working on:<br>
 Quest<br>
-Creatures
-Spawns in Pandaria
+Creatures<br>
+Spawns in Pandaria<br>
 gameobject
-English words for gameocjects
-etc...
+English words for gameocjects<br>
+etc...<br>
