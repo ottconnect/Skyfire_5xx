@@ -10,3 +10,11 @@ Thread location : http://www.ac-web.org/forums/showthread.php?201731-Mist-of-Pan
 Updates will only be for this project.
 
 Original Core is located here : https://github.com/ProjectSkyfire/SkyFire_5xx
+
+Working on:
+Quest
+Creatures
+Spawns in Pandaria
+gameobject
+English words for gameocjects
+etc...
