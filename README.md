@@ -15,6 +15,6 @@ Working on:<br>
 Quest<br>
 Creatures<br>
 Spawns in Pandaria<br>
-gameobject
-English words for gameocjects<br>
+gameobject<br>
+English words for gameocjects, creatures, etc....<br>
 etc...<br>
