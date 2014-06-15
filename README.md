@@ -8,3 +8,5 @@ This is the databse from Ragebones
 Thread location : http://www.ac-web.org/forums/showthread.php?201731-Mist-of-Pandaria-Skyfire-5-4-8-Repack-(Daily-fix)
 
 Updates will only be for this project.
+
+Original Core is located here : https://github.com/ProjectSkyfire/SkyFire_5xx
