@@ -1,0 +1,8 @@
+This will spawn creature 70980 and also add quest starter to 61962 npc and quest tender 70980.
+
+INSERT INTO `creature` (`guid`, `id`, `map`, `spawnMask`, `phaseMask`, `modelid`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `spawndist`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`) VALUES (70980, 19852, 530, 1, 1, 0, 0, 2698.43, 3183.87, 148.646, 4.64467, 300, 5, 0, 5060, 2933, 1, 0, 0, 0);
+
+INSERT INTO `creature_queststarter` (`id`, `quest`) VALUES (61962, 32815);
+
+INSERT INTO `creature_questender` (`id`, `quest`) VALUES (70980, 32815);
+
