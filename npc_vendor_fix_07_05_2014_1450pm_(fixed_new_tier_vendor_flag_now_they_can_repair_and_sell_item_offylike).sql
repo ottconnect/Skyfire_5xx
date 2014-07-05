@@ -1,0 +1,1 @@
+update creature_template set npcflag = 4224 where entry in (74010, 74012, 73674, 74019, 74020, 74022, 74021, 74027);

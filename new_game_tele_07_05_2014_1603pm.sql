@@ -1,0 +1,11 @@
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2004, 7199.94, 6287.28, 12.4699, 0.695482, 1064, 'thunderisland');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2005, -8310.91, -4466.74, -208.602, 0.508142, 1, 'endtime');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2006, -8282.92, -4521.31, -219.045, 0.334569, 1, 'dragonsoul');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2007, -8292.64, -4554.03, -222.431, 4.59614, 1, 'houroftwilight');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2008, -8600.2, -4013.95, -205.547, 1.18829, 1, 'wellofeternity');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2009, 1219.81, 625.647, 335.074, 5.44086, 870, 'siegeoforgrimmar');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2010, 1382.32, 447.216, 478.939, 5.50291, 870, 'mogushanpalace');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2011, 951.789, -60.7127, 508.539, 0.870627, 870, 'terraceofendlessspring');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2012, 963.091, -2461.21, 180.532, 4.34994, 870, 'templejadeserpent');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2013, 668.318, 2079.53, 371.402, 0.0278959, 870, 'gateofsettingsun');
+REPLACE INTO `game_tele` (`id`, `position_x`, `position_y`, `position_z`, `orientation`, `map`, `name`) VALUES (2014, 3986.83, 1105, 497.151, 2.22623, 870, 'mogushanvault');
