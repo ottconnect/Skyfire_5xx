@@ -11,3 +11,5 @@ echo */ >>%WorldUpdates%
 copy/b %WorldUpdates%+"%%a" %WorldUpdates%
 echo. >>%WorldUpdates%
 echo. >>%WorldUpdates%)
+echo MERGED ALL WORLD UPDATES.
+pause
