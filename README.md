@@ -38,28 +38,53 @@ To-do list (Try to keep the order by importance)•Bank / Guild Bank
 
 Finished Stuff•Auth
 •Char Enum
+
 •World Login
+
 •Talents / Known spells
+
 •Char name / Realm queries
+
 •Messagechat
+
 •Basic player movement
+
 •Implement addons packets - To prevent ingame spam
+
 •Teleporting / Move speed changes - SMSG movement
+
 •Creature/Gameobject queries
+
 •Creature movement
+
 •Combat / Autoattack / Attacker stats ...
+
 •Item swapping / equiping
+
 •Gameobejct transparency (general bug - not structure related, wrong values in update fields)
+
 •Spell casting / casting results
+
 •Auras
+
 •Creature / Gameobject gossips (including vendors and trainers)
+
 •Glyphs
+
 •Properly finish living part of object update
+
 •XP Related Stuff
+
 •Loot
-•Groups (Parties / Raids)
+
+•Groups (Parties/ Raids)
+
 •Mounts
+
 •Guilds
+
 •Quests
+
 •Mail
+
 •Auction House
