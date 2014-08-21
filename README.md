@@ -12,6 +12,7 @@ Updates will only be for this project.
 
 
 To-do list (Try to keep the order by importance)
+
 •Bank / Guild Bank
 
 •Reputations
@@ -59,7 +60,10 @@ To-do list (Try to keep the order by importance)
 
 
 
-Finished Stuff•Auth
+Finished Stuff
+
+•Auth
+
 •Char Enum
 
 •World Login
