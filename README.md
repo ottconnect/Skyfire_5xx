@@ -11,28 +11,51 @@ Updates will only be for this project.
 
 
 
-To-do list (Try to keep the order by importance)•Bank / Guild Bank
+To-do list (Try to keep the order by importance)
+•Bank / Guild Bank
+
 •Reputations
+
 •Achievements / Guild Acievements / Implement acc achievements
+
 •Update ingame damage / stats calculation, (including newest formulas from paper doll)
+
 •Implement dynamic update fieldss
+
 •Implement PvP Power / Update resil
+
 •Battlegrounds
+
 •Implement Premade characters
+
 •Instance Locking
+
 •Professions
+
 •Void Storage
+
 •Calendair & Events
+
 •Arenas - needs full rewrite O.o
+
 •Pets / Pet Battles
+
 •Scenarios
+
 •Ingame Shop
+
 •Archaeology
+
 •Rated Battlegrounds
+
 •Dungeon Finder
+
 •Guild Finder
+
 •Raid Finder
+
 •Implement char boost
+
 
 
 
